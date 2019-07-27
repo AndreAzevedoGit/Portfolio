@@ -1,0 +1,17 @@
+<span id="meio">Inicio(); Contato(); SobreMim();</span>
+
+
+
+<span id="a">AndreAzevedo@admin</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- kjsdfhkjdhsfkjdshfkj -->Sobre_Mim
+<span id="a">AndreAzevedor@admin</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Apresentacao.txt<br/><br/>
+Seja muito bem-vindo ao meu <span id="k">Portfolio</span>.
+
+<p>Você podera ver que eu trabalho tanto em <span id="k">Front-End </span> quanto em <span id="k">Back-End</span>. </p>
+<p>Linguagens em que apresento proficiência: </p>
+<a>•HTML</a>
+<a>•CSS</a>
+<a>•JavaScript</a>
+<a>•PHP</a>
+<a>•MySQL</a>
+<a>•Python</a>
+
